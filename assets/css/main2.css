@@ -47,7 +47,6 @@
     min-height: 30vh;
     position: relative;
     font-size: 38px;
-    font-weight: 700;
     color: skyblue;
     font-family: var(--font-secondary);
   }
@@ -764,7 +763,7 @@
 
 
   /*--------------------------------------------------------------
-  # Brief Part ofResume
+  # Brief Part of Resume
   --------------------------------------------------------------*/
 .resume .resume-item {
   padding: 0 0 20px 20px;
