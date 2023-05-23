@@ -459,13 +459,15 @@ h6 {
   font-size: 45px;
   font-weight: 700;
   font-weight: bolder;
-  color: black;
+  color: rgb(0, 0, 0);
+  text-shadow: 1px 1px 1px rgb(211, 248, 0);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
 .hero p {
-  color: rgba(236, 35, 35, 0.986);
+  color: rgba(14, 14, 14, 0.986);
+  text-shadow: 1px 1px 5px rgb(211, 248, 0);
   margin-bottom: 30px;
   font-size: 18px;
   font-stretch: semi-expanded;
